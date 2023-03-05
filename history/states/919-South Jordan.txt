@@ -1,0 +1,25 @@
+
+state={
+	id=919
+	name="STATE_919"
+	manpower = 932000
+	
+	state_category = pastoral
+
+	history={
+		owner = BRT
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		victory_points = {
+			11976 1 
+		}
+
+		add_core_of = JOR
+	}
+
+	provinces={ 4017 4115 10089 11976 }
+
+	local_supplies=0.0 
+}

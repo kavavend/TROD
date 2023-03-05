@@ -1,0 +1,20 @@
+state = {
+	id = 910
+	name = "STATE_910"
+
+	history = {
+		victory_points = {
+			13257 1 
+		}
+		owner = BRT
+		add_core_of = PAL
+		add_core_of = ISR
+		
+
+	}
+
+	provinces = { 13257 }
+	manpower = 9000
+	state_category = rural
+	local_supplies = 0.000
+}

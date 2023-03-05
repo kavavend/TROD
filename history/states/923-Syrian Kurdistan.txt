@@ -1,0 +1,27 @@
+state={
+	id=923
+	name="STATE_923"
+	manpower = 324110
+	
+	state_category = wasteland
+
+	history={
+		owner = FRA
+		victory_points = {
+			1549 1
+		}
+		victory_points = {
+			6883 1
+		}
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SYR
+		add_core_of = KUR
+	}
+
+
+	provinces={ 901 1549 1578 1606 1634 6883 10882 }
+
+	local_supplies=4.0 
+}

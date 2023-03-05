@@ -1,0 +1,20 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_super_event_kino_line"
+		texturefile = "gfx/super_events/cinema_line.dds"
+	}
+	
+	frameAnimatedSpriteType = {
+		name = "GFX_super_event_old_noise"
+		texturefile = "gfx/super_events/noise.dds"
+		noOfFrames = 5
+		animation_rate_fps = 10
+		looping = yes
+		play_on_show = yes
+	}
+	
+	spriteType = {
+		name = "GFX_super_event_0"
+		texturefile = "gfx/super_events/bg_0.dds"
+	}
+}

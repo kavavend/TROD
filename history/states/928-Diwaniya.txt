@@ -1,0 +1,29 @@
+
+state={
+	id=928
+	name="STATE_928"
+	manpower = 344165
+	
+	state_category = town
+	
+	resources={
+		oil= 4
+	}
+
+	history={
+		owner = BRT
+	 victory_points = {
+			7994 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1 
+		}
+		add_core_of = IRQ
+		add_claim_by = KUR
+	}
+
+	provinces={ 7994 10876 }
+
+	local_supplies=6.0 
+}

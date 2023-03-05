@@ -1,0 +1,24 @@
+scripted_gui = {
+	super_event_menu = {
+		context_type = player_context
+		window_name = "super_event_menu"
+		parent_window_token = top_bar
+		
+		visible = {
+			is_ai = no
+			has_global_flag = super_event
+		}
+		
+		effects = {
+			close_super_event_menu_click = {
+				clr_global_flag = super_event
+			}
+		}
+		
+		properties = {
+			cinema_bg = {
+				image = "[bg_img]"
+			}
+		}
+	}
+}

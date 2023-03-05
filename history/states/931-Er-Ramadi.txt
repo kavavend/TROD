@@ -1,0 +1,27 @@
+
+state={
+	id=931
+	name="STATE_931"
+	manpower = 44165
+	
+	state_category = pastoral 
+	
+	resources={
+		oil= 2
+	}
+
+
+	history={
+		owner = BRT
+		buildings = {
+			infrastructure = 1
+		}
+		
+		add_core_of = IRQ
+		add_claim_by = KUR
+	}
+
+	provinces={ 1600 3795 12372 }
+
+	local_supplies=6.0 
+}

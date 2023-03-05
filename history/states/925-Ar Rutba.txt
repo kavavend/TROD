@@ -1,0 +1,28 @@
+
+state={
+	id=925
+	name="STATE_925"
+	manpower = 44165
+	
+	state_category = pastoral 
+	
+	resources={
+		oil= 3 
+	}
+
+	history={
+		owner = BRT
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			12413 1 
+		}
+		add_core_of = IRQ
+		add_claim_by = KUR
+	}
+
+	provinces={ 12413  12839 }
+
+	local_supplies=6.0 
+}

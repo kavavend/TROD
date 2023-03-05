@@ -1,0 +1,24 @@
+
+state={
+	id=937
+	name="STATE_937" 
+	manpower = 258452
+	resources = { chromium = 32 }
+	
+	state_category = rural
+
+	history={
+		owner = OTM
+		victory_points = { 3921 3 }
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = OTM
+
+	}
+
+	provinces={ 886 3921 6888 6956 }
+
+	local_supplies=6.0 
+}

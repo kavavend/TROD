@@ -1,0 +1,33 @@
+
+state={
+	id=934
+	name="STATE_934"
+	manpower = 6144743
+	resources={
+		steel= 12
+	}
+
+
+	state_category = metropolis
+	
+	history={
+		owner = HAN
+		victory_points = {
+			6469 10 
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 2
+
+		}
+		add_core_of = HAN
+	
+	}
+
+	provinces={ 529 3512 6469 6570 9482  }
+	
+
+	local_supplies=0.0 
+}

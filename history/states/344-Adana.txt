@@ -1,0 +1,32 @@
+
+state={
+	id=344
+	name="STATE_344"
+	manpower = 981781
+	
+	state_category = rural 
+
+	history={
+		owner = FRA
+		victory_points = {
+			9893 15
+		}
+		victory_points = {
+			7620 10
+		}
+		victory_points = {
+			6813 3
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = OTM
+		add_claim_by = KUR
+	}
+
+	provinces={ 3889 6813 7620 9893 9912 }
+
+
+	local_supplies=0.0 
+}

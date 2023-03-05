@@ -1,0 +1,36 @@
+state = {
+	id = 909
+	name = "STATE_909"
+	manpower = 34000
+	state_category = city
+	local_supplies = 0.000
+
+	history = {
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+		}
+		victory_points = {
+			1086 5 
+		}
+		victory_points = {
+			13259 5 
+		}
+		victory_points = {
+			13260 5 
+		}
+		victory_points = {
+			13261 5 
+		}
+		victory_points = {
+			13263 2 
+		}
+		owner = BRT
+		add_core_of = PAL
+		add_core_of = ISR
+		
+
+	}
+
+	provinces = { 1 1086 13259 13260 13261 13263 }
+}

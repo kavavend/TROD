@@ -1,0 +1,23 @@
+
+state={
+	id=932
+	name="STATE_932"
+	manpower = 134
+	
+	state_category = pastoral 
+	
+
+
+
+	history={
+		owner = BRT
+		buildings = {
+			infrastructure = 3
+		}
+		add_claim_by = KUR
+	}
+
+	provinces={ 13275 13276 13277 }
+
+	local_supplies=6.0 
+}

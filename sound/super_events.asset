@@ -1,0 +1,21 @@
+########################DEBUG #########################
+sound = {
+	name = "free_Ukraine"
+	file = "free_Ukraine.wav"
+	always_load = yes
+}
+
+category = {
+	name = "super_events"
+	soundeffects = {
+		free_Ukraine
+	}
+}
+
+soundeffect = {
+	name = free_Ukraine
+	volume = 1
+	sounds = {
+		sound = free_Ukraine
+	}
+}

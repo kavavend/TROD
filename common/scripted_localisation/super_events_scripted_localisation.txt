@@ -1,0 +1,60 @@
+
+# backgrounds
+
+defined_text = {
+	name = bg_img
+	text = {
+		trigger = {
+			has_global_flag = {
+				flag = super_event
+				value = 1
+			}
+		}
+		localization_key = GFX_super_event_0
+	}
+}
+
+# titles
+
+defined_text = {
+	name = title_text
+	text = {
+		trigger = {
+			has_global_flag = {
+				flag = super_event
+				value = 1
+			}
+		}
+		localization_key = super_event_0_title
+	}
+}
+
+# descriptions
+
+defined_text = {
+	name = desc_text
+	text = {
+		trigger = {
+			has_global_flag = {
+				flag = super_event
+				value = 1
+			}
+		}
+		localization_key = super_event_0_desc
+	}
+}
+
+# buttons
+
+defined_text = {
+	name = btn_text
+	text = {
+		trigger = {
+			has_global_flag = {
+				flag = super_event
+				value = 1
+			}
+		}
+		localization_key = super_event_0_btn
+	}
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=933
+	name="STATE_933"
+	manpower = 3005214
+	resources={
+		steel=4 
+	}
+	
+	state_category = large_city
+
+	history={
+		owner = SAX
+		victory_points = { 6501 5 }
+		victory_points = { 9497 3 }
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = SAX
+	}
+
+	provinces={ 538 6501 6582 9497 }
+
+	local_supplies=0.0 
+}

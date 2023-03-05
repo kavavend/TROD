@@ -1,0 +1,33 @@
+super_events_decisions_category = {
+	
+	first_decision = {
+		icon = GFX_decision_generic_research
+		
+		available = {
+			always = yes
+		}
+		
+		fire_only_once = no
+		days_re_enable = 0
+		
+		visible = {
+			is_ai = no
+		}
+		
+		cost = 0
+		
+		complete_effect = {
+		
+			# Код визову супер-івента
+			scoped_sound_effect = free_Ukraine
+			set_global_flag = {
+				flag = super_event
+				value = 1
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}
